@@ -10,3 +10,7 @@
 6. Years video game players loved
 7. Years that both players and critics loved
 8. Sales in the best video game years
+
+
+### Data Set
+- Video Game Sales Data from  [Kaggle](https://www.kaggle.com/datasets/holmjason2/videogamedata).
