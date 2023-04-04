@@ -15,7 +15,7 @@
 - Video Game Sales Data from  [Kaggle](https://www.kaggle.com/datasets/holmjason2/videogamedata).
 
 ### Technology
--SQL
+- SQL
 
 ### Topics
--Data Manipulation
+- Data Manipulation
